@@ -1,0 +1,10 @@
+body{    
+    background: black url("../imagens/fundo-madeira.jpg") center center no-repeat  fixed;
+    background-position: cover;
+    background-size: cover;
+    position: relative;
+}
+
+div#celular{
+    position: absolute;
+}
